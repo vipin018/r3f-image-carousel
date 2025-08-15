@@ -83,31 +83,6 @@ export const OverlayComponent = () => {
   return (
     <>
       <style>{keyframes}</style>
-      {/* <section style={overlayStyle}>
-        <div style={logoContainerStyle}>
-          <a
-            style={logoLinkStyle}
-            href="https://wawasensei.dev"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img
-              src="/images/wawasensei-white.png"
-              alt="Wawa Sensei logo"
-              style={logoImageStyle}
-            />
-          </a>
-        </div>
-        <div style={bottomTextContainerStyle}>
-          <div style={lineStyle}></div>
-          <a
-            href="https://wawasensei.dev/courses/react-three-fiber/"
-            style={bottomTextLinkStyle}
-          >
-            Learn Three.js & React Three Fiber
-          </a>
-        </div>
-      </section> */}
     </>
   );
 };
